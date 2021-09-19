@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Odoo Template',
+    'name': 'Odoo Test Template',
     'version': '14.0.1.0.0',
     'summary': """Odoo Template""",
     'description': """Odoo Template """,
