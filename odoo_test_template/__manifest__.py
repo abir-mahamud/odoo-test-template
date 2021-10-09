@@ -15,6 +15,7 @@
     ],
     'images': ['static/description/banner.gif'],
     'license': 'AGPL-3',
+    'price': '$ 180.70',
     'installable': True,
     'auto_install': False,
     'application': True,
