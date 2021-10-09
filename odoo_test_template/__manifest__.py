@@ -8,8 +8,12 @@
     'author': 'Daffodil Software Limited',
     'company': 'Daffodil Software Limited',
     'website': "https://smart.daffodil.family",
-    'depends': ['web',
-                'hr'
+    'depends': ['base',
+                'hr_payroll_community',
+                'hr_payslip_monthly_report',
+                'hr',
+                'report_xlsx',
+                'hrms_dashboard'
                 ],
     'data': [
     ],
@@ -18,6 +22,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
-    'price':180.0,
-    'currency':'USD'
+    'price': 180.0,
+    'currency': 'USD'
 }
