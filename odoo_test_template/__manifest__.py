@@ -6,7 +6,7 @@
     'description': """Odoo Template """,
     'category': 'Generic Modules/Odoo Template',
     'author': 'Farhan Tanvir, Abir Mahamud',
-    'company': 'Farhan Tanvir, Abir Mahamud',
+    'company': 'Daffodil Software Limited',
     'website': "https://smart.daffodil.family",
     'depends': ['web',
                 'hr'
