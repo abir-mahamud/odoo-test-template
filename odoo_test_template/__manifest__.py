@@ -7,7 +7,7 @@
     'category': 'Generic Modules/Odoo Template',
     'author': 'Farhan Tanvir, Abir Mahamud',
     'company': 'Farhan Tanvir, Abir Mahamud',
-    'website': "https://www.farhantanvir.com",
+    'website': "https://smart.daffodil.family",
     'depends': ['web',
                 'hr'
                 ],
@@ -18,4 +18,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
+    'price':180.0,
+    'currency':'USD'
 }
